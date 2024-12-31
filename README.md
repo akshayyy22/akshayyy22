@@ -22,4 +22,10 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/https://www.buymeacoffee.com/akshayyy22) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshayyy22/akshayyy22/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshayyy22/akshayyy22/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akshayyy22/akshayyy22/output/github-contribution-grid-snake.svg">
+</picture>
