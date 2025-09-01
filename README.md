@@ -2,7 +2,7 @@
 <h3 align="center">I'm a 19-year-old developer From Mumbai, and I'm passionate about crafting digital experiences.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Something Interesting <br>🌱 I’m currently learning Gen AI<br>👯 I’m looking to collaborate on Open-source projects and innovative web applications<br>📫 How to reach me akshayesackimuthu@gmail.com<br><br><br>
+🔭 I’m currently Interning at US-Based Stealth Startup as a Software Engineering Intern <br>🌱 I’m currently learning Computer Science comprehensively<br>📫 How to reach me akshayesackimuthu@gmail.com<br><br><br>
 
 
 ## 🌐 Socials:
