@@ -2,7 +2,7 @@
 <h3 align="center">I'm a 19-year-old developer From Mumbai, and I'm passionate about crafting digital experiences.</h3>
 
 # 💫 About Me:
-💼 Software Engineering Intern @ Seattle Stealth Startup <br>🌱 I’m currently learning Computer Science comprehensively<br>📫 How to reach me akshayesackimuthu@gmail.com<br><br><br>
+💼 Software Engineering Intern @ Fask AI <br>🌱 I’m currently learning Computer Science comprehensively<br>📫 How to reach me akshayesackimuthu@gmail.com<br><br><br>
 
 
 ## 🌐 Socials:
