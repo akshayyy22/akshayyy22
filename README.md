@@ -4,8 +4,8 @@
 ---
 
 # About Me
-- Software Engineering Intern at Fask AI (US)  
-- Part-time contributor to Thursday (US)
+Software Engineering Intern at Fask AI (US)  
+Part-time contributor to Thursday (US)
 
 Hardcore engineering and AI enthusiast focused on building great AI products and becoming a better engineer.
 
